@@ -57,9 +57,9 @@ Compare the original, opened, and closed images.
 
 ## Developed By
 
-**Name:** HARI VARSHAN V
+**Name:** Joshua Clement D
 
-**Register No:** 212224230092
+**Register No:** 212224040143
 
 ## Program
 ```
@@ -102,7 +102,9 @@ plt.show()
 ```
 
 ## Output
-<img width="907" height="303" alt="Screenshot 2026-09-07 105734" src="https://github.com/user-attachments/assets/11ff59da-3272-4905-83e4-02bfa5e36737" />
+<img width="472" height="498" alt="image" src="https://github.com/user-attachments/assets/5ac3cefe-debb-4067-943d-a6a8e70a61dd" />
+<img width="463" height="497" alt="image" src="https://github.com/user-attachments/assets/f701856a-6512-4356-ba7e-a54a845bc888" />
+<img width="462" height="491" alt="image" src="https://github.com/user-attachments/assets/274de1e4-eab1-46d4-93fb-93d401327228" />
 
 
 ## Result
