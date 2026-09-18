@@ -102,9 +102,9 @@ plt.show()
 ```
 
 ## Output
-<img width="472" height="498" alt="image" src="https://github.com/user-attachments/assets/5ac3cefe-debb-4067-943d-a6a8e70a61dd" />
-<img width="463" height="497" alt="image" src="https://github.com/user-attachments/assets/f701856a-6512-4356-ba7e-a54a845bc888" />
-<img width="462" height="491" alt="image" src="https://github.com/user-attachments/assets/274de1e4-eab1-46d4-93fb-93d401327228" />
+<img width="470" height="497" alt="image" src="https://github.com/user-attachments/assets/260dec32-8126-4747-85f6-6f9660f818c2" />
+<img width="466" height="490" alt="image" src="https://github.com/user-attachments/assets/57a02481-211b-44e9-b1f5-a0daca6fce49" />
+<img width="477" height="501" alt="image" src="https://github.com/user-attachments/assets/8fc3c434-4ce5-4042-9cf2-748898a170fe" />
 
 
 ## Result
